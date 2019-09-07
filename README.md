@@ -1,5 +1,5 @@
 # whitepapers
-Repository for the Official Elitium Whitepapers
+Repository for the Official Elitium Whitepaper
 
 Elitium provides a luxury lifestyle platform for its clientele
 using a sustainable cryptocurrency solution.
