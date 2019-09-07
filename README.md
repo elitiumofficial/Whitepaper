@@ -1,4 +1,4 @@
-# whitepapers
+# Whitepaper
 Repository for the Official Elitium Whitepaper
 
 Elitium provides a luxury lifestyle platform for its clientele
