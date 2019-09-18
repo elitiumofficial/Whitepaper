@@ -2,6 +2,8 @@
 Repository for the Official Elitium Whitepaper
 
 Elitium provides a luxury lifestyle platform for its clientele
-using a sustainable cryptocurrency solution.
+using a sustainable cryptocurrency solution.<br>
+<br>
 
-More information at [elitium.io](https://www.elitium.io)
+<p align="center">For more information<br>
+https://www.elitium.io</p>
